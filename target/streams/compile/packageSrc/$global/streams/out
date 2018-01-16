@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mPackaging /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/lightstep_2.12-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	entities/Payload.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/src/main/scala/entities/Payload.scala[0m
+[0m[[0mdebug[0m] [0m	services/ErrorAnalytics.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/src/main/scala/services/ErrorAnalytics.scala[0m
+[0m[[0mdebug[0m] [0m	services/TimeAnalytics.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/src/main/scala/services/TimeAnalytics.scala[0m
+[0m[[0mdebug[0m] [0m	nodes/Frontend.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/src/main/scala/nodes/Frontend.scala[0m
+[0m[[0mdebug[0m] [0m	services/LoggingAnalytics.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/src/main/scala/services/LoggingAnalytics.scala[0m
+[0m[[0mdebug[0m] [0m	nodes/Backend.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/src/main/scala/nodes/Backend.scala[0m
+[0m[[0mdebug[0m] [0m	nodes/Transaction.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/src/main/scala/nodes/Transaction.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

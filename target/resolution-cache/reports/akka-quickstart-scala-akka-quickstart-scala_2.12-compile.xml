@@ -6,8 +6,8 @@
 		module="akka-quickstart-scala_2.12"
 		revision="1.0"
 		conf="compile"
-		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20180107145749"/>
+		confs="universal, universal-docs, universal-src, windows, docker, compile, runtime, test, provided, optional, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20180116145423"/>
 	<dependencies>
 		<module organisation="com.typesafe.akka" name="akka-http-spray-json_2.12">
 			<revision name="10.0.10" status="release" pubdate="20170831104005" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="12">

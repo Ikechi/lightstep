@@ -1,0 +1,105 @@
+[0m[[0minfo[0m] [0mPackaging /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/lightstep_2.12-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	node/Backend$ 2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/node/Backend$ 2.class[0m
+[0m[[0mdebug[0m] [0m	services/LoggingAnalytics.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/services/LoggingAnalytics.class[0m
+[0m[[0mdebug[0m] [0m	node/Backend$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/node/Backend$.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$ResultRef.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$ResultRef.class[0m
+[0m[[0mdebug[0m] [0m	services/LoggingAnalytics$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/services/LoggingAnalytics$.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$HighestErrorCount$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$HighestErrorCount$.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$Payload$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$Payload$.class[0m
+[0m[[0mdebug[0m] [0m	services/TimeAnalytics$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/services/TimeAnalytics$.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$Payload.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$Payload.class[0m
+[0m[[0mdebug[0m] [0m	services/ErrorAnalytics$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/services/ErrorAnalytics$.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$PayloadRef$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$PayloadRef$.class[0m
+[0m[[0mdebug[0m] [0m	nodes/Transaction.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/nodes/Transaction.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$Log.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$Log.class[0m
+[0m[[0mdebug[0m] [0m	nodes/Transaction$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/nodes/Transaction$.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$ResultMetadata$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$ResultMetadata$.class[0m
+[0m[[0mdebug[0m] [0m	entities/Transaction$ 3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Transaction$ 3.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$AnalyticsResult.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$AnalyticsResult.class[0m
+[0m[[0mdebug[0m] [0m	entities/Transaction 3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Transaction 3.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$Metadata$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$Metadata$.class[0m
+[0m[[0mdebug[0m] [0m	node/Backend.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/node/Backend.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$ResultMetadata.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$ResultMetadata.class[0m
+[0m[[0mdebug[0m] [0m	services/ErrorAnalytics$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/services/ErrorAnalytics$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	entities/Transaction 2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Transaction 2.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$HighestErrorCount.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$HighestErrorCount.class[0m
+[0m[[0mdebug[0m] [0m	entities/Transaction$$anonfun$receive$1 2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Transaction$$anonfun$receive$1 2.class[0m
+[0m[[0mdebug[0m] [0m	node/Frontend$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/node/Frontend$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	services/TimeAnalytics.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/services/TimeAnalytics.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$LongestTransaction.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$LongestTransaction.class[0m
+[0m[[0mdebug[0m] [0m	node[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/node[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$LongestTransaction$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$LongestTransaction$.class[0m
+[0m[[0mdebug[0m] [0m	services[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/services[0m
+[0m[[0mdebug[0m] [0m	nodes[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/nodes[0m
+[0m[[0mdebug[0m] [0m	node/Frontend.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/node/Frontend.class[0m
+[0m[[0mdebug[0m] [0m	services/TimeAnalytics$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/services/TimeAnalytics$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	services/LoggingAnalytics$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/services/LoggingAnalytics$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	services/ErrorAnalytics.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/services/ErrorAnalytics.class[0m
+[0m[[0mdebug[0m] [0m	entities/Transaction$$anonfun$receive$1 3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Transaction$$anonfun$receive$1 3.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$Result.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$Result.class[0m
+[0m[[0mdebug[0m] [0m	node/Backend$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/node/Backend$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	node/Frontend$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/node/Frontend$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload.class[0m
+[0m[[0mdebug[0m] [0m	entities[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$Metadata.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$Metadata.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$Result$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$Result$.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$PayloadRef.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$PayloadRef.class[0m
+[0m[[0mdebug[0m] [0m	nodes/Transaction$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/nodes/Transaction$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	entities/Transaction$ 2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Transaction$ 2.class[0m
+[0m[[0mdebug[0m] [0m	node/Frontend$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/node/Frontend$.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$ResultRef$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$ResultRef$.class[0m
+[0m[[0mdebug[0m] [0m	entities/Payload$Log$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ikechi/Documents/Interviews/lightstep/target/scala-2.12/classes/entities/Payload$Log$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

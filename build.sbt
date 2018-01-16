@@ -1,4 +1,4 @@
-name := "akka-quickstart-scala"
+name := "lightstep"
 
 version := "1.0"
 
@@ -14,3 +14,5 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-http" % "10.0.10",
   "com.typesafe.akka" %% "akka-http-spray-json" % "10.0.10"
 )
+
+enablePlugins(JavaAppPackaging)
